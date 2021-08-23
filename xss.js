@@ -1,3 +1,3 @@
-document.addEventListener("Test", function(event) {
+document.addEventListener("click", function(event) {
     alert(1);
 });
